@@ -1,0 +1,4 @@
+pydantic
+matplotlib
+shapely==1.8.0
+numpy
